@@ -1,0 +1,2630 @@
+{
+    "tasks": [
+        {
+            "task_id": 1,
+            "status": 0,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 1,
+            "start_date": "2020-05-14",
+            "end_date": null
+        },
+        {
+            "task_id": 2,
+            "status": 0,
+            "task": "Search pattern is ambiguous",
+            "project": "Quality Management",
+            "people_id": 1,
+            "start_date": "2020-05-12",
+            "end_date": null
+        },
+        {
+            "task_id": 3,
+            "status": 1,
+            "task": "Navigations problem in the left menu",
+            "project": "Failure Testing",
+            "people_id": 1,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 4,
+            "status": 1,
+            "task": "Confirm button styling",
+            "project": "Failure Testing",
+            "people_id": 1,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 5,
+            "status": 1,
+            "task": "Links in the upper right menu",
+            "project": "Failure Testing",
+            "people_id": 1,
+            "start_date": "2020-05-23",
+            "end_date": "2020-05-25"
+        },
+        {
+            "task_id": 6,
+            "status": 1,
+            "task": "Datatable focus on first cell",
+            "project": "Quality Management",
+            "people_id": 2,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 7,
+            "status": 1,
+            "task": "Binding Filters to each other",
+            "project": "Failure Testing",
+            "people_id": 2,
+            "start_date": "2020-05-08",
+            "end_date": "2020-05-10"
+        },
+        {
+            "task_id": 8,
+            "status": 1,
+            "task": "Button text on mobile devices",
+            "project": "Failure Testing",
+            "people_id": 2,
+            "start_date": "2020-05-14",
+            "end_date": "2020-05-16"
+        },
+        {
+            "task_id": 9,
+            "status": 1,
+            "task": "How to apply fewer options of drop down menu for specific rows of datatable?",
+            "project": "Quality Management",
+            "people_id": 2,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 10,
+            "status": 1,
+            "task": "Dynamic load filtering doesnot work with custom request call to server",
+            "project": "Support",
+            "people_id": 2,
+            "start_date": "2020-05-23",
+            "end_date": "2020-05-25"
+        },
+        {
+            "task_id": 11,
+            "status": 1,
+            "task": "Error: [DOM] Found 7 elements with non-unique id",
+            "project": "Support",
+            "people_id": 3,
+            "start_date": "2020-05-12",
+            "end_date": "2020-05-14"
+        },
+        {
+            "task_id": 12,
+            "status": 1,
+            "task": "Binding Filters to each other",
+            "project": "Quality Management",
+            "people_id": 3,
+            "start_date": "2020-05-10",
+            "end_date": "2020-05-12"
+        },
+        {
+            "task_id": 13,
+            "status": 1,
+            "task": "onBlur event not working for MultiSelect",
+            "project": "Support",
+            "people_id": 3,
+            "start_date": "2020-05-19",
+            "end_date": "2020-05-21"
+        },
+        {
+            "task_id": 14,
+            "status": 1,
+            "task": "How do I define which column the sort was activated from?",
+            "project": "Failure Testing",
+            "people_id": 3,
+            "start_date": "2020-05-27",
+            "end_date": "2020-05-29"
+        },
+        {
+            "task_id": 15,
+            "status": 1,
+            "task": "Links in the upper right menu",
+            "project": "Quality Management",
+            "people_id": 3,
+            "start_date": "2020-05-02",
+            "end_date": "2020-05-04"
+        },
+        {
+            "task_id": 16,
+            "status": 0,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 4,
+            "start_date": "2020-05-14",
+            "end_date": null
+        },
+        {
+            "task_id": 17,
+            "status": 1,
+            "task": "Confirm button styling",
+            "project": "Failure Testing",
+            "people_id": 4,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 18,
+            "status": 1,
+            "task": "Navigations problem in the left menu",
+            "project": "Failure Testing",
+            "people_id": 4,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 19,
+            "status": 1,
+            "task": "Document export is empty",
+            "project": "Failure Testing",
+            "people_id": 4,
+            "start_date": "2020-05-12",
+            "end_date": "2020-05-14"
+        },
+        {
+            "task_id": 20,
+            "status": 1,
+            "task": "Button text in the right menu",
+            "project": "Quality Management",
+            "people_id": 4,
+            "start_date": "2020-05-10",
+            "end_date": "2020-05-12"
+        },
+        {
+            "task_id": 21,
+            "status": 0,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 5,
+            "start_date": "2020-05-14",
+            "end_date": null
+        },
+        {
+            "task_id": 22,
+            "status": 1,
+            "task": "Navigations problem in the left menu",
+            "project": "Failure Testing",
+            "people_id": 5,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 23,
+            "status": 1,
+            "task": "Confirm button styling",
+            "project": "Failure Testing",
+            "people_id": 5,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 24,
+            "status": 0,
+            "task": "Button text on mobile devices",
+            "project": "Support",
+            "people_id": 5,
+            "start_date": "2020-05-28",
+            "end_date": null
+        },
+        {
+            "task_id": 25,
+            "status": 0,
+            "task": "Search pattern is ambiguous",
+            "project": "Quality Management",
+            "people_id": 5,
+            "start_date": "2020-05-12",
+            "end_date": null
+        },
+        {
+            "task_id": 26,
+            "status": 1,
+            "task": "No ability to exit profile editing dialogue",
+            "project": "Failure Testing",
+            "people_id": 6,
+            "start_date": "2020-05-11",
+            "end_date": "2020-05-13"
+        },
+        {
+            "task_id": 27,
+            "status": 1,
+            "task": "Prevent clearing CSS added to node after filterByAll() in datatable filter",
+            "project": "Quality Management",
+            "people_id": 6,
+            "start_date": "2020-05-19",
+            "end_date": "2020-05-21"
+        },
+        {
+            "task_id": 28,
+            "status": 1,
+            "task": "Links in the upper right menu",
+            "project": "Quality Management",
+            "people_id": 6,
+            "start_date": "2020-05-02",
+            "end_date": "2020-05-04"
+        },
+        {
+            "task_id": 29,
+            "status": 1,
+            "task": "Menu thumbnails disappear when I click them",
+            "project": "Failure Testing",
+            "people_id": 6,
+            "start_date": "2020-05-14",
+            "end_date": "2020-05-16"
+        },
+        {
+            "task_id": 30,
+            "status": 1,
+            "task": "Datatable focus on first cell",
+            "project": "Quality Management",
+            "people_id": 6,
+            "start_date": "2020-05-01",
+            "end_date": "2020-05-03"
+        },
+        {
+            "task_id": 31,
+            "status": 1,
+            "task": "Dynamic load filtering doesnot work with custom request call to server",
+            "project": "Support",
+            "people_id": 7,
+            "start_date": "2020-05-21",
+            "end_date": "2020-05-23"
+        },
+        {
+            "task_id": 32,
+            "status": 1,
+            "task": "Binding Filters to each other",
+            "project": "Quality Management",
+            "people_id": 7,
+            "start_date": "2020-05-15",
+            "end_date": "2020-05-17"
+        },
+        {
+            "task_id": 33,
+            "status": 1,
+            "task": "Datatable focus on first cell",
+            "project": "Quality Management",
+            "people_id": 7,
+            "start_date": "2020-05-01",
+            "end_date": "2020-05-03"
+        },
+        {
+            "task_id": 34,
+            "status": 1,
+            "task": "Labels in rangechart",
+            "project": "Failure Testing",
+            "people_id": 7,
+            "start_date": "2020-05-25",
+            "end_date": "2020-05-27"
+        },
+        {
+            "task_id": 35,
+            "status": 1,
+            "task": "Can each series in a line chart have its own dataCollection?",
+            "project": "Support",
+            "people_id": 7,
+            "start_date": "2020-05-10",
+            "end_date": "2020-05-12"
+        },
+        {
+            "task_id": 36,
+            "status": 1,
+            "task": "Error: [DOM] Found 7 elements with non-unique id",
+            "project": "Support",
+            "people_id": 8,
+            "start_date": "2020-05-16",
+            "end_date": "2020-05-18 "
+        },
+        {
+            "task_id": 37,
+            "status": 1,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Quality Management",
+            "people_id": 8,
+            "start_date": "2020-05-08",
+            "end_date": "2020-05-10"
+        },
+        {
+            "task_id": 38,
+            "status": 1,
+            "task": "Search is not working properly",
+            "project": "Quality Management",
+            "people_id": 8,
+            "start_date": "2020-05-25",
+            "end_date": "2020-05-27"
+        },
+        {
+            "task_id": 39,
+            "status": 1,
+            "task": "How to apply fewer options of drop down menu for specific rows of datatable?",
+            "project": "Support",
+            "people_id": 8,
+            "start_date": "2020-05-15",
+            "end_date": "2020-05-17"
+        },
+        {
+            "task_id": 40,
+            "status": 1,
+            "task": "How do I define which column the sort was activated from?",
+            "project": "Quality Management",
+            "people_id": 8,
+            "start_date": "2020-05-19",
+            "end_date": "2020-05-21"
+        },
+        {
+            "task_id": 41,
+            "status": 1,
+            "task": "Datatable editing within multiview",
+            "project": "Support",
+            "people_id": 9,
+            "start_date": "2020-05-05",
+            "end_date": "2020-05-07 "
+        },
+        {
+            "task_id": 42,
+            "status": 0,
+            "task": "Button text on mobile devices",
+            "project": "Support",
+            "people_id": 9,
+            "start_date": "2020-05-28",
+            "end_date": null
+        },
+        {
+            "task_id": 43,
+            "status": 1,
+            "task": "No ability to exit profile editing dialogue",
+            "project": "Quality Management",
+            "people_id": 9,
+            "start_date": "2020-05-02",
+            "end_date": "2020-05-04"
+        },
+        {
+            "task_id": 44,
+            "status": 1,
+            "task": "Datatable editing within multiview",
+            "project": "Quality Management",
+            "people_id": 9,
+            "start_date": "2020-05-21",
+            "end_date": "2020-05-23"
+        },
+        {
+            "task_id": 45,
+            "status": 1,
+            "task": "onBlur event not working for MultiSelect",
+            "project": "Support",
+            "people_id": 9,
+            "start_date": "2020-05-24",
+            "end_date": "2020-05-26"
+        },
+        {
+            "task_id": 46,
+            "status": 1,
+            "task": "How to apply fewer options of drop down menu for specific rows of datatable?",
+            "project": "Support",
+            "people_id": 10,
+            "start_date": "2020-05-15",
+            "end_date": "2020-05-17 "
+        },
+        {
+            "task_id": 47,
+            "status": 1,
+            "task": "Error: [DOM] Found 7 elements with non-unique id",
+            "project": "Quality Management",
+            "people_id": 10,
+            "start_date": "2020-05-20",
+            "end_date": "2020-05-22"
+        },
+        {
+            "task_id": 48,
+            "status": 1,
+            "task": "Search pattern is ambiguous",
+            "project": "Quality Management",
+            "people_id": 10,
+            "start_date": "2020-05-12",
+            "end_date": "2020-05-14"
+        },
+        {
+            "task_id": 49,
+            "status": 1,
+            "task": "Button text on mobile devices",
+            "project": "Support",
+            "people_id": 10,
+            "start_date": "2020-05-28",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 50,
+            "status": 1,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 10,
+            "start_date": "2020-05-14",
+            "end_date": "2020-05-16"
+        },
+        {
+            "task_id": 51,
+            "status": 1,
+            "task": "onBlur event not working for MultiSelect",
+            "project": "Support",
+            "people_id": 11,
+            "start_date": "2020-05-24",
+            "end_date": "2020-05-26"
+        },
+        {
+            "task_id": 52,
+            "status": 1,
+            "task": "How to apply fewer options of drop down menu for specific rows of datatable?",
+            "project": "Support",
+            "people_id": 11,
+            "start_date": "2020-05-15",
+            "end_date": "2020-05-17 "
+        },
+        {
+            "task_id": 53,
+            "status": 0,
+            "task": "Error: [DOM] Found 7 elements with non-unique id",
+            "project": "Quality Management",
+            "people_id": 11,
+            "start_date": "2020-05-20",
+            "end_date": null
+        },
+        {
+            "task_id": 54,
+            "status": 1,
+            "task": "Search pattern is ambiguous",
+            "project": "Quality Management",
+            "people_id": 11,
+            "start_date": "2020-05-12",
+            "end_date": "2020-05-14"
+        },
+        {
+            "task_id": 55,
+            "status": 0,
+            "task": "Prevent clearing CSS added to node after filterByAll() in datatable filter",
+            "project": "Support",
+            "people_id": 11,
+            "start_date": "2020-05-23",
+            "end_date": null
+        },
+        {
+            "task_id": 56,
+            "status": 0,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 12,
+            "start_date": "2020-05-14",
+            "end_date": null
+        },
+        {
+            "task_id": 57,
+            "status": 0,
+            "task": "Search pattern is ambiguous",
+            "project": "Quality Management",
+            "people_id": 12,
+            "start_date": "2020-05-12",
+            "end_date": null
+        },
+        {
+            "task_id": 58,
+            "status": 1,
+            "task": "Navigations problem in the left menu",
+            "project": "Failure Testing",
+            "people_id": 12,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 59,
+            "status": 1,
+            "task": "Confirm button styling",
+            "project": "Failure Testing",
+            "people_id": 12,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 60,
+            "status": 1,
+            "task": "Links in the upper right menu",
+            "project": "Failure Testing",
+            "people_id": 12,
+            "start_date": "2020-05-23",
+            "end_date": "2020-05-25"
+        },
+        {
+            "task_id": 61,
+            "status": 1,
+            "task": "Datatable focus on first cell",
+            "project": "Quality Management",
+            "people_id": 13,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 62,
+            "status": 1,
+            "task": "Binding Filters to each other",
+            "project": "Failure Testing",
+            "people_id": 13,
+            "start_date": "2020-05-08",
+            "end_date": "2020-05-10"
+        },
+        {
+            "task_id": 63,
+            "status": 1,
+            "task": "Button text on mobile devices",
+            "project": "Failure Testing",
+            "people_id": 13,
+            "start_date": "2020-05-14",
+            "end_date": "2020-05-16"
+        },
+        {
+            "task_id": 64,
+            "status": 1,
+            "task": "How to apply fewer options of drop down menu for specific rows of datatable?",
+            "project": "Quality Management",
+            "people_id": 13,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 65,
+            "status": 1,
+            "task": "Dynamic load filtering doesnot work with custom request call to server",
+            "project": "Support",
+            "people_id": 13,
+            "start_date": "2020-05-23",
+            "end_date": "2020-05-25"
+        },
+        {
+            "task_id": 66,
+            "status": 1,
+            "task": "Error: [DOM] Found 7 elements with non-unique id",
+            "project": "Support",
+            "people_id": 14,
+            "start_date": "2020-05-12",
+            "end_date": "2020-05-14"
+        },
+        {
+            "task_id": 67,
+            "status": 1,
+            "task": "Binding Filters to each other",
+            "project": "Quality Management",
+            "people_id": 14,
+            "start_date": "2020-05-10",
+            "end_date": "2020-05-12"
+        },
+        {
+            "task_id": 68,
+            "status": 1,
+            "task": "onBlur event not working for MultiSelect",
+            "project": "Support",
+            "people_id": 14,
+            "start_date": "2020-05-19",
+            "end_date": "2020-05-21"
+        },
+        {
+            "task_id": 69,
+            "status": 1,
+            "task": "How do I define which column the sort was activated from?",
+            "project": "Failure Testing",
+            "people_id": 14,
+            "start_date": "2020-05-27",
+            "end_date": "2020-05-29"
+        },
+        {
+            "task_id": 70,
+            "status": 1,
+            "task": "Links in the upper right menu",
+            "project": "Quality Management",
+            "people_id": 14,
+            "start_date": "2020-05-02",
+            "end_date": "2020-05-04"
+        },
+        {
+            "task_id": 71,
+            "status": 0,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 15,
+            "start_date": "2020-05-14",
+            "end_date": null
+        },
+        {
+            "task_id": 72,
+            "status": 1,
+            "task": "Confirm button styling",
+            "project": "Failure Testing",
+            "people_id": 15,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 73,
+            "status": 1,
+            "task": "Navigations problem in the left menu",
+            "project": "Failure Testing",
+            "people_id": 15,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 74,
+            "status": 1,
+            "task": "Document export is empty",
+            "project": "Failure Testing",
+            "people_id": 15,
+            "start_date": "2020-05-12",
+            "end_date": "2020-05-14"
+        },
+        {
+            "task_id": 75,
+            "status": 1,
+            "task": "Button text in the right menu",
+            "project": "Quality Management",
+            "people_id": 15,
+            "start_date": "2020-05-10",
+            "end_date": "2020-05-12"
+        },
+        {
+            "task_id": 76,
+            "status": 0,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Support",
+            "people_id": 16,
+            "start_date": "2020-05-14",
+            "end_date": null
+        },
+        {
+            "task_id": 77,
+            "status": 1,
+            "task": "Navigations problem in the left menu",
+            "project": "Failure Testing",
+            "people_id": 16,
+            "start_date": "2020-05-29",
+            "end_date": "2020-05-31"
+        },
+        {
+            "task_id": 78,
+            "status": 1,
+            "task": "Confirm button styling",
+            "project": "Failure Testing",
+            "people_id": 16,
+            "start_date": "2020-05-18",
+            "end_date": "2020-05-20"
+        },
+        {
+            "task_id": 79,
+            "status": 0,
+            "task": "Button text on mobile devices",
+            "project": "Support",
+            "people_id": 16,
+            "start_date": "2020-05-28",
+            "end_date": null
+        },
+        {
+            "task_id": 80,
+            "status": 0,
+            "task": "Search pattern is ambiguous",
+            "project": "Quality Management",
+            "people_id": 16,
+            "start_date": "2020-05-12",
+            "end_date": null
+        },
+        {
+            "task_id": 81,
+            "status": 1,
+            "task": "No ability to exit profile editing dialogue",
+            "project": "Failure Testing",
+            "people_id": 17,
+            "start_date": "2020-05-11",
+            "end_date": "2020-05-13"
+        },
+        {
+            "task_id": 82,
+            "status": 1,
+            "task": "Prevent clearing CSS added to node after filterByAll() in datatable filter",
+            "project": "Quality Management",
+            "people_id": 17,
+            "start_date": "2020-05-19",
+            "end_date": "2020-05-21"
+        },
+        {
+            "task_id": 83,
+            "status": 1,
+            "task": "Links in the upper right menu",
+            "project": "Quality Management",
+            "people_id": 17,
+            "start_date": "2020-05-02",
+            "end_date": "2020-05-04"
+        },
+        {
+            "task_id": 84,
+            "status": 1,
+            "task": "Menu thumbnails disappear when I click them",
+            "project": "Failure Testing",
+            "people_id": 17,
+            "start_date": "2020-05-14",
+            "end_date": "2020-05-16"
+        },
+        {
+            "task_id": 85,
+            "status": 1,
+            "task": "Datatable focus on first cell",
+            "project": "Quality Management",
+            "people_id": 17,
+            "start_date": "2020-05-01",
+            "end_date": "2020-05-03"
+        },
+        {
+            "task_id": 86,
+            "status": 1,
+            "task": "Dynamic load filtering doesnot work with custom request call to server",
+            "project": "Support",
+            "people_id": 18,
+            "start_date": "2020-05-21",
+            "end_date": "2020-05-23"
+        },
+        {
+            "task_id": 87,
+            "status": 1,
+            "task": "Binding Filters to each other",
+            "project": "Quality Management",
+            "people_id": 18,
+            "start_date": "2020-05-15",
+            "end_date": "2020-05-17"
+        },
+        {
+            "task_id": 88,
+            "status": 1,
+            "task": "Datatable focus on first cell",
+            "project": "Quality Management",
+            "people_id": 18,
+            "start_date": "2020-05-01",
+            "end_date": "2020-05-03"
+        },
+        {
+            "task_id": 89,
+            "status": 1,
+            "task": "Labels in rangechart",
+            "project": "Failure Testing",
+            "people_id": 18,
+            "start_date": "2020-05-25",
+            "end_date": "2020-05-27"
+        },
+        {
+            "task_id": 90,
+            "status": 1,
+            "task": "Can each series in a line chart have its own dataCollection?",
+            "project": "Support",
+            "people_id": 18,
+            "start_date": "2020-05-10",
+            "end_date": "2020-05-12"
+        },
+        {
+            "task_id": 91,
+            "status": 1,
+            "task": "Error: [DOM] Found 7 elements with non-unique id",
+            "project": "Support",
+            "people_id": 19,
+            "start_date": "2020-05-16",
+            "end_date": "2020-05-18 "
+        },
+        {
+            "task_id": 92,
+            "status": 1,
+            "task": "Top margin in a popup window is smaller than the...",
+            "project": "Quality Management",
+            "people_id": 19,
+            "start_date": "2020-05-08",
+            "end_date": "2020-05-10"
+        },
+        {
+            "task_id": 93,
+            "status": 1,
+            "task": "Search is not working properly",
+            "project": "Quality Management",
+            "people_id": 19,
+            "start_date": "2020-05-25",
+            "end_date": "2020-05-27"
+        },
+        {
+            "task_id": 94,
+            "status": 1,
+            "task": "How to apply fewer options of drop down menu for specific rows of datatable?",
+            "project": "Support",
+            "people_id": 19,
+            "start_date": "2020-05-15",
+            "end_date": "2020-05-17"
+        },
+        {
+            "task_id": 95,
+            "status": 1,
+            "task": "How do I define which column the sort was activated from?",
+            "project": "Quality Management",
+            "people_id": 19,
+            "start_date": "2020-05-19",
+            "end_date": "2020-05-21"
+        },
+        {
+            "task_id": 96,
+            "status": 1,
+            "task": "Datatable editing within multiview",
+            "project": "Support",
+            "people_id": 20,
+            "start_date": "2020-05-05",
+            "end_date": "2020-05-07 "
+        },
+        {
+            "task_id": 97,
+            "status": 0,
+            "task": "Button text on mobile devices",
+            "project": "Support",
+            "people_id": 20,
+            "start_date": "2020-05-28",
+            "end_date": null
+        },
+        {
+            "task_id": 98,
+            "status": 1,
+            "task": "No ability to exit profile editing dialogue",
+            "project": "Quality Management",
+            "people_id": 20,
+            "start_date": "2020-05-02",
+            "end_date": "2020-05-04"
+        },
+        {
+            "task_id": 99,
+            "status": 1,
+            "task": "Datatable editing within multiview",
+            "project": "Quality Management",
+            "people_id": 20,
+            "start_date": "2020-05-21",
+            "end_date": "2020-05-23"
+        },
+        {
+            "task_id": 100,
+            "status": 1,
+            "task": "onBlur event not working for MultiSelect",
+            "project": "Support",
+            "people_id": 20,
+            "start_date": "2020-05-24",
+            "end_date": "2020-05-26"
+        }
+    ],
+    "people": [
+        {
+            "person_id": 1,
+            "first_name": "Rodger",
+            "last_name": "Nash",
+            "photo": "rodger_nash",
+            "money": 667.16
+        },
+        {
+            "person_id": 2,
+            "first_name": "George",
+            "last_name": "Weaver",
+            "photo": "george_weaver",
+            "money": 944.87
+        },
+        {
+            "person_id": 3,
+            "first_name": "Angel",
+            "last_name": "Johns",
+            "photo": "angel_johns",
+            "money": 564.22
+        },
+        {
+            "person_id": 4,
+            "first_name": "Isaiah",
+            "last_name": "Greggs",
+            "photo": "isaiah_greggs",
+            "money": 1982.11
+        },
+        {
+            "person_id": 5,
+            "first_name": "David",
+            "last_name": "Harper",
+            "photo": "david_harper",
+            "money": 2793.58
+        },
+        {
+            "person_id": 6,
+            "first_name": "Clifford",
+            "last_name": "Weaver",
+            "photo": "clifford_weaver",
+            "money": 1126.73
+        },
+        {
+            "person_id": 7,
+            "first_name": "Paul",
+            "last_name": "McDaniel",
+            "photo": "paul_mcdaniel",
+            "money": 3756.94
+        },
+        {
+            "person_id": 8,
+            "first_name": "Linda",
+            "last_name": "Miles",
+            "photo": "linda_miles",
+            "money": 2439.88
+        },
+        {
+            "person_id": 9,
+            "first_name": "Kosuke",
+            "last_name": "Shiragaki",
+            "photo": "kosuke_shiragaki",
+            "money": 2892.34
+        },
+        {
+            "person_id": 10,
+            "first_name": "Mark",
+            "last_name": "Perry",
+            "photo": "mark_perry",
+            "money": 5789.67
+        },
+        {
+            "person_id": 11,
+            "first_name": "Ali",
+            "last_name": "Crawley",
+            "photo": "ali_crawley",
+            "money": 1495.28
+        },
+        {
+            "person_id": 12,
+            "first_name": "David",
+            "last_name": "Evans",
+            "photo": "david_evans",
+            "money": 986.53
+        },
+        {
+            "person_id": 13,
+            "first_name": "Samantha",
+            "last_name": "Stucker",
+            "photo": "samantha_stucker",
+            "money": 372.85
+        },
+        {
+            "person_id": 14,
+            "first_name": "William",
+            "last_name": "Cooper",
+            "photo": "william_cooper",
+            "money": 1221.91
+        },
+        {
+            "person_id": 15,
+            "first_name": "Jacob",
+            "last_name": "Norris",
+            "photo": "jacob_norris",
+            "money": 906.52
+        },
+        {
+            "person_id": 16,
+            "first_name": "Toshia",
+            "last_name": "Lininger",
+            "photo": "toshia_lininger",
+            "money": 438.09
+        },
+        {
+            "person_id": 17,
+            "first_name": "Jesse",
+            "last_name": "Holdman",
+            "photo": "jesse_holdman",
+            "money": 623.28
+        },
+        {
+            "person_id": 18,
+            "first_name": "Jack",
+            "last_name": "Higgins",
+            "photo": "jack_higgins",
+            "money": 2365.31
+        },
+        {
+            "person_id": 19,
+            "first_name": "Alexandra",
+            "last_name": "Foster",
+            "photo": "alexandra_foster",
+            "money": 1904.64
+        },
+        {
+            "person_id": 20,
+            "first_name": "Matthew",
+            "last_name": "Beasley",
+            "photo": "matthew_beasley",
+            "money": 1077.22
+        }
+    ],
+    "progress": [
+        {
+            "progress_id": 1,
+            "week": 1,
+            "tasks": 41,
+            "people_id": 1
+        },
+        {
+            "progress_id": 2,
+            "week": 3,
+            "tasks": 24,
+            "people_id": 1
+        },
+        {
+            "progress_id": 3,
+            "week": 7,
+            "tasks": 49,
+            "people_id": 1
+        },
+        {
+            "progress_id": 4,
+            "week": 9,
+            "tasks": 15,
+            "people_id": 1
+        },
+        {
+            "progress_id": 5,
+            "week": 11,
+            "tasks": 53,
+            "people_id": 1
+        },
+        {
+            "progress_id": 6,
+            "week": 14,
+            "tasks": 86,
+            "people_id": 1
+        },
+        {
+            "progress_id": 7,
+            "week": 1,
+            "tasks": 23,
+            "people_id": 2
+        },
+        {
+            "progress_id": 8,
+            "week": 3,
+            "tasks": 44,
+            "people_id": 2
+        },
+        {
+            "progress_id": 9,
+            "week": 7,
+            "tasks": 82,
+            "people_id": 2
+        },
+        {
+            "progress_id": 10,
+            "week": 11,
+            "tasks": 44,
+            "people_id": 2
+        },
+        {
+            "progress_id": 11,
+            "week": 13,
+            "tasks": 23,
+            "people_id": 2
+        },
+        {
+            "progress_id": 12,
+            "week": 17,
+            "tasks": 39,
+            "people_id": 2
+        },
+        {
+            "progress_id": 13,
+            "week": 21,
+            "tasks": 57,
+            "people_id": 2
+        },
+        {
+            "progress_id": 14,
+            "week": 24,
+            "tasks": 13,
+            "people_id": 2
+        },
+        {
+            "progress_id": 15,
+            "week": 1,
+            "tasks": 3,
+            "people_id": 3
+        },
+        {
+            "progress_id": 16,
+            "week": 2,
+            "tasks": 31,
+            "people_id": 3
+        },
+        {
+            "progress_id": 17,
+            "week": 8,
+            "tasks": 17,
+            "people_id": 3
+        },
+        {
+            "progress_id": 18,
+            "week": 18,
+            "tasks": 48,
+            "people_id": 3
+        },
+        {
+            "progress_id": 19,
+            "week": 24,
+            "tasks": 38,
+            "people_id": 3
+        },
+        {
+            "progress_id": 20,
+            "week": 27,
+            "tasks": 84,
+            "people_id": 3
+        },
+        {
+            "progress_id": 21,
+            "week": 29,
+            "tasks": 43,
+            "people_id": 3
+        },
+        {
+            "progress_id": 22,
+            "week": 33,
+            "tasks": 57,
+            "people_id": 3
+        },
+        {
+            "progress_id": 23,
+            "week": 1,
+            "tasks": 71,
+            "people_id": 4
+        },
+        {
+            "progress_id": 24,
+            "week": 2,
+            "tasks": 67,
+            "people_id": 4
+        },
+        {
+            "progress_id": 25,
+            "week": 5,
+            "tasks": 14,
+            "people_id": 4
+        },
+        {
+            "progress_id": 26,
+            "week": 9,
+            "tasks": 28,
+            "people_id": 4
+        },
+        {
+            "progress_id": 27,
+            "week": 12,
+            "tasks": 35,
+            "people_id": 4
+        },
+        {
+            "progress_id": 28,
+            "week": 15,
+            "tasks": 42,
+            "people_id": 4
+        },
+        {
+            "progress_id": 29,
+            "week": 17,
+            "tasks": 22,
+            "people_id": 4
+        },
+        {
+            "progress_id": 30,
+            "week": 24,
+            "tasks": 41,
+            "people_id": 4
+        },
+        {
+            "progress_id": 31,
+            "week": 2,
+            "tasks": 33,
+            "people_id": 5
+        },
+        {
+            "progress_id": 32,
+            "week": 6,
+            "tasks": 7,
+            "people_id": 5
+        },
+        {
+            "progress_id": 33,
+            "week": 9,
+            "tasks": 14,
+            "people_id": 5
+        },
+        {
+            "progress_id": 34,
+            "week": 10,
+            "tasks": 26,
+            "people_id": 5
+        },
+        {
+            "progress_id": 35,
+            "week": 12,
+            "tasks": 64,
+            "people_id": 5
+        },
+        {
+            "progress_id": 36,
+            "week": 15,
+            "tasks": 42,
+            "people_id": 5
+        },
+        {
+            "progress_id": 37,
+            "week": 17,
+            "tasks": 22,
+            "people_id": 5
+        },
+        {
+            "progress_id": 38,
+            "week": 24,
+            "tasks": 41,
+            "people_id": 5
+        },
+        {
+            "progress_id": 39,
+            "week": 1,
+            "tasks": 3,
+            "people_id": 6
+        },
+        {
+            "progress_id": 40,
+            "week": 2,
+            "tasks": 7,
+            "people_id": 6
+        },
+        {
+            "progress_id": 41,
+            "week": 9,
+            "tasks": 28,
+            "people_id": 6
+        },
+        {
+            "progress_id": 42,
+            "week": 14,
+            "tasks": 59,
+            "people_id": 6
+        },
+        {
+            "progress_id": 43,
+            "week": 18,
+            "tasks": 61,
+            "people_id": 6
+        },
+        {
+            "progress_id": 44,
+            "week": 22,
+            "tasks": 35,
+            "people_id": 6
+        },
+        {
+            "progress_id": 45,
+            "week": 25,
+            "tasks": 23,
+            "people_id": 6
+        },
+        {
+            "progress_id": 46,
+            "week": 27,
+            "tasks": 13,
+            "people_id": 6
+        },
+        {
+            "progress_id": 47,
+            "week": 1,
+            "tasks": 10,
+            "people_id": 7
+        },
+        {
+            "progress_id": 48,
+            "week": 2,
+            "tasks": 4,
+            "people_id": 7
+        },
+        {
+            "progress_id": 49,
+            "week": 4,
+            "tasks": 17,
+            "people_id": 7
+        },
+        {
+            "progress_id": 50,
+            "week": 6,
+            "tasks": 29,
+            "people_id": 7
+        },
+        {
+            "progress_id": 51,
+            "week": 8,
+            "tasks": 13,
+            "people_id": 7
+        },
+        {
+            "progress_id": 52,
+            "week": 11,
+            "tasks": 27,
+            "people_id": 7
+        },
+        {
+            "progress_id": 53,
+            "week": 13,
+            "tasks": 15,
+            "people_id": 7
+        },
+        {
+            "progress_id": 54,
+            "week": 15,
+            "tasks": 19,
+            "people_id": 7
+        },
+        {
+            "progress_id": 55,
+            "week": 1,
+            "tasks": 28,
+            "people_id": 8
+        },
+        {
+            "progress_id": 56,
+            "week": 4,
+            "tasks": 93,
+            "people_id": 8
+        },
+        {
+            "progress_id": 57,
+            "week": 6,
+            "tasks": 33,
+            "people_id": 8
+        },
+        {
+            "progress_id": 58,
+            "week": 9,
+            "tasks": 24,
+            "people_id": 8
+        },
+        {
+            "progress_id": 59,
+            "week": 12,
+            "tasks": 12,
+            "people_id": 8
+        },
+        {
+            "progress_id": 60,
+            "week": 14,
+            "tasks": 31,
+            "people_id": 8
+        },
+        {
+            "progress_id": 61,
+            "week": 16,
+            "tasks": 15,
+            "people_id": 8
+        },
+        {
+            "progress_id": 62,
+            "week": 19,
+            "tasks": 2,
+            "people_id": 8
+        },
+        {
+            "progress_id": 63,
+            "week": 1,
+            "tasks": 1,
+            "people_id": 9
+        },
+        {
+            "progress_id": 64,
+            "week": 18,
+            "tasks": 3,
+            "people_id": 9
+        },
+        {
+            "progress_id": 65,
+            "week": 4,
+            "tasks": 17,
+            "people_id": 9
+        },
+        {
+            "progress_id": 66,
+            "week": 5,
+            "tasks": 22,
+            "people_id": 9
+        },
+        {
+            "progress_id": 67,
+            "week": 7,
+            "tasks": 42,
+            "people_id": 9
+        },
+        {
+            "progress_id": 68,
+            "week": 11,
+            "tasks": 32,
+            "people_id": 9
+        },
+        {
+            "progress_id": 69,
+            "week": 13,
+            "tasks": 58,
+            "people_id": 9
+        },
+        {
+            "progress_id": 70,
+            "week": 15,
+            "tasks": 79,
+            "people_id": 9
+        },
+        {
+            "progress_id": 71,
+            "week": 1,
+            "tasks": 10,
+            "people_id": 10
+        },
+        {
+            "progress_id": 72,
+            "week": 2,
+            "tasks": 16,
+            "people_id": 10
+        },
+        {
+            "progress_id": 73,
+            "week": 4,
+            "tasks": 17,
+            "people_id": 10
+        },
+        {
+            "progress_id": 74,
+            "week": 8,
+            "tasks": 8,
+            "people_id": 10
+        },
+        {
+            "progress_id": 75,
+            "week": 15,
+            "tasks": 34,
+            "people_id": 10
+        },
+        {
+            "progress_id": 76,
+            "week": 19,
+            "tasks": 49,
+            "people_id": 10
+        },
+        {
+            "progress_id": 77,
+            "week": 24,
+            "tasks": 17,
+            "people_id": 10
+        },
+        {
+            "progress_id": 78,
+            "week": 26,
+            "tasks": 45,
+            "people_id": 10
+        },
+        {
+            "progress_id": 79,
+            "week": 1,
+            "tasks": 5,
+            "people_id": 11
+        },
+        {
+            "progress_id": 80,
+            "week": 3,
+            "tasks": 24,
+            "people_id": 11
+        },
+        {
+            "progress_id": 81,
+            "week": 7,
+            "tasks": 54,
+            "people_id": 11
+        },
+        {
+            "progress_id": 82,
+            "week": 12,
+            "tasks": 63,
+            "people_id": 11
+        },
+        {
+            "progress_id": 83,
+            "week": 16,
+            "tasks": 85,
+            "people_id": 11
+        },
+        {
+            "progress_id": 84,
+            "week": 20,
+            "tasks": 95,
+            "people_id": 11
+        },
+        {
+            "progress_id": 85,
+            "week": 1,
+            "tasks": 31,
+            "people_id": 12
+        },
+        {
+            "progress_id": 86,
+            "week": 2,
+            "tasks": 44,
+            "people_id": 12
+        },
+        {
+            "progress_id": 87,
+            "week": 4,
+            "tasks": 33,
+            "people_id": 12
+        },
+        {
+            "progress_id": 88,
+            "week": 6,
+            "tasks": 48,
+            "people_id": 12
+        },
+        {
+            "progress_id": 89,
+            "week": 8,
+            "tasks": 30,
+            "people_id": 12
+        },
+        {
+            "progress_id": 90,
+            "week": 11,
+            "tasks": 47,
+            "people_id": 12
+        },
+        {
+            "progress_id": 91,
+            "week": 13,
+            "tasks": 35,
+            "people_id": 12
+        },
+        {
+            "progress_id": 92,
+            "week": 15,
+            "tasks": 43,
+            "people_id": 12
+        },
+        {
+            "progress_id": 93,
+            "week": 1,
+            "tasks": 16,
+            "people_id": 13
+        },
+        {
+            "progress_id": 94,
+            "week": 2,
+            "tasks": 31,
+            "people_id": 13
+        },
+        {
+            "progress_id": 95,
+            "week": 4,
+            "tasks": 28,
+            "people_id": 13
+        },
+        {
+            "progress_id": 96,
+            "week": 7,
+            "tasks": 51,
+            "people_id": 13
+        },
+        {
+            "progress_id": 97,
+            "week": 12,
+            "tasks": 39,
+            "people_id": 13
+        },
+        {
+            "progress_id": 98,
+            "week": 17,
+            "tasks": 76,
+            "people_id": 13
+        },
+        {
+            "progress_id": 99,
+            "week": 18,
+            "tasks": 5,
+            "people_id": 13
+        },
+        {
+            "progress_id": 100,
+            "week": 21,
+            "tasks": 57,
+            "people_id": 13
+        },
+        {
+            "progress_id": 101,
+            "week": 1,
+            "tasks": 22,
+            "people_id": 14
+        },
+        {
+            "progress_id": 102,
+            "week": 2,
+            "tasks": 35,
+            "people_id": 14
+        },
+        {
+            "progress_id": 103,
+            "week": 5,
+            "tasks": 46,
+            "people_id": 14
+        },
+        {
+            "progress_id": 104,
+            "week": 8,
+            "tasks": 25,
+            "people_id": 14
+        },
+        {
+            "progress_id": 105,
+            "week": 12,
+            "tasks": 11,
+            "people_id": 14
+        },
+        {
+            "progress_id": 106,
+            "week": 15,
+            "tasks": 39,
+            "people_id": 14
+        },
+        {
+            "progress_id": 107,
+            "week": 17,
+            "tasks": 19,
+            "people_id": 14
+        },
+        {
+            "progress_id": 108,
+            "week": 21,
+            "tasks": 37,
+            "people_id": 14
+        },
+        {
+            "progress_id": 109,
+            "week": 1,
+            "tasks": 47,
+            "people_id": 15
+        },
+        {
+            "progress_id": 110,
+            "week": 4,
+            "tasks": 34,
+            "people_id": 15
+        },
+        {
+            "progress_id": 111,
+            "week": 8,
+            "tasks": 51,
+            "people_id": 15
+        },
+        {
+            "progress_id": 112,
+            "week": 12,
+            "tasks": 64,
+            "people_id": 15
+        },
+        {
+            "progress_id": 113,
+            "week": 16,
+            "tasks": 44,
+            "people_id": 15
+        },
+        {
+            "progress_id": 114,
+            "week": 20,
+            "tasks": 23,
+            "people_id": 15
+        },
+        {
+            "progress_id": 115,
+            "week": 24,
+            "tasks": 55,
+            "people_id": 15
+        },
+        {
+            "progress_id": 116,
+            "week": 28,
+            "tasks": 54,
+            "people_id": 15
+        },
+        {
+            "progress_id": 117,
+            "week": 1,
+            "tasks": 18,
+            "people_id": 16
+        },
+        {
+            "progress_id": 118,
+            "week": 2,
+            "tasks": 27,
+            "people_id": 16
+        },
+        {
+            "progress_id": 119,
+            "week": 5,
+            "tasks": 33,
+            "people_id": 16
+        },
+        {
+            "progress_id": 120,
+            "week": 7,
+            "tasks": 33,
+            "people_id": 16
+        },
+        {
+            "progress_id": 121,
+            "week": 11,
+            "tasks": 47,
+            "people_id": 16
+        },
+        {
+            "progress_id": 122,
+            "week": 15,
+            "tasks": 12,
+            "people_id": 16
+        },
+        {
+            "progress_id": 123,
+            "week": 17,
+            "tasks": 31,
+            "people_id": 16
+        },
+        {
+            "progress_id": 124,
+            "week": 21,
+            "tasks": 14,
+            "people_id": 16
+        },
+        {
+            "progress_id": 125,
+            "week": 1,
+            "tasks": 23,
+            "people_id": 17
+        },
+        {
+            "progress_id": 126,
+            "week": 2,
+            "tasks": 1,
+            "people_id": 17
+        },
+        {
+            "progress_id": 127,
+            "week": 3,
+            "tasks": 17,
+            "people_id": 17
+        },
+        {
+            "progress_id": 128,
+            "week": 6,
+            "tasks": 24,
+            "people_id": 17
+        },
+        {
+            "progress_id": 129,
+            "week": 8,
+            "tasks": 29,
+            "people_id": 17
+        },
+        {
+            "progress_id": 130,
+            "week": 11,
+            "tasks": 27,
+            "people_id": 17
+        },
+        {
+            "progress_id": 131,
+            "week": 13,
+            "tasks": 15,
+            "people_id": 17
+        },
+        {
+            "progress_id": 132,
+            "week": 15,
+            "tasks": 24,
+            "people_id": 17
+        },
+        {
+            "progress_id": 133,
+            "week": 1,
+            "tasks": 10,
+            "people_id": 18
+        },
+        {
+            "progress_id": 134,
+            "week": 2,
+            "tasks": 10,
+            "people_id": 18
+        },
+        {
+            "progress_id": 135,
+            "week": 4,
+            "tasks": 24,
+            "people_id": 18
+        },
+        {
+            "progress_id": 136,
+            "week": 6,
+            "tasks": 48,
+            "people_id": 18
+        },
+        {
+            "progress_id": 137,
+            "week": 9,
+            "tasks": 57,
+            "people_id": 18
+        },
+        {
+            "progress_id": 138,
+            "week": 13,
+            "tasks": 31,
+            "people_id": 18
+        },
+        {
+            "progress_id": 139,
+            "week": 16,
+            "tasks": 15,
+            "people_id": 18
+        },
+        {
+            "progress_id": 140,
+            "week": 19,
+            "tasks": 34,
+            "people_id": 18
+        },
+        {
+            "progress_id": 141,
+            "week": 1,
+            "tasks": 25,
+            "people_id": 19
+        },
+        {
+            "progress_id": 142,
+            "week": 4,
+            "tasks": 56,
+            "people_id": 19
+        },
+        {
+            "progress_id": 143,
+            "week": 7,
+            "tasks": 30,
+            "people_id": 19
+        },
+        {
+            "progress_id": 144,
+            "week": 11,
+            "tasks": 47,
+            "people_id": 19
+        },
+        {
+            "progress_id": 145,
+            "week": 15,
+            "tasks": 63,
+            "people_id": 19
+        },
+        {
+            "progress_id": 146,
+            "week": 18,
+            "tasks": 31,
+            "people_id": 19
+        },
+        {
+            "progress_id": 147,
+            "week": 22,
+            "tasks": 24,
+            "people_id": 19
+        },
+        {
+            "progress_id": 148,
+            "week": 25,
+            "tasks": 71,
+            "people_id": 19
+        },
+        {
+            "progress_id": 149,
+            "week": 1,
+            "tasks": 9,
+            "people_id": 20
+        },
+        {
+            "progress_id": 150,
+            "week": 2,
+            "tasks": 28,
+            "people_id": 20
+        },
+        {
+            "progress_id": 151,
+            "week": 4,
+            "tasks": 45,
+            "people_id": 20
+        },
+        {
+            "progress_id": 152,
+            "week": 6,
+            "tasks": 17,
+            "people_id": 20
+        },
+        {
+            "progress_id": 153,
+            "week": 9,
+            "tasks": 37,
+            "people_id": 20
+        },
+        {
+            "progress_id": 154,
+            "week": 14,
+            "tasks": 26,
+            "people_id": 20
+        },
+        {
+            "progress_id": 155,
+            "week": 17,
+            "tasks": 42,
+            "people_id": 20
+        },
+        {
+            "progress_id": 156,
+            "week": 21,
+            "tasks": 47,
+            "people_id": 20
+        }
+    ],
+    "hours": [
+        {
+            "hour_id": 1,
+            "activity": "Tasks",
+            "hours": 53,
+            "color": "#ff4081",
+            "people_id": 1
+        },
+        {
+            "hour_id": 2,
+            "activity": "Meeting",
+            "hours": 18,
+            "color": "#1ca1c1",
+            "people_id": 1
+        },
+        {
+            "hour_id": 3,
+            "activity": "Mail",
+            "hours": 16,
+            "color": "#f8643f",
+            "people_id": 1
+        },
+        {
+            "hour_id": 4,
+            "activity": "Calls",
+            "hours": 12,
+            "color": "#fdbf4c",
+            "people_id": 1
+        },
+        {
+            "hour_id": 5,
+            "activity": "Tasks",
+            "hours": 34,
+            "color": "#ff4081",
+            "people_id": 2
+        },
+        {
+            "hour_id": 6,
+            "activity": "Meeting",
+            "hours": 26,
+            "color": "#1ca1c1",
+            "people_id": 2
+        },
+        {
+            "hour_id": 7,
+            "activity": "Mail",
+            "hours": 11,
+            "color": "#f8643f",
+            "people_id": 2
+        },
+        {
+            "hour_id": 8,
+            "activity": "Calls",
+            "hours": 39,
+            "color": "#fdbf4c",
+            "people_id": 2
+        },
+        {
+            "hour_id": 9,
+            "activity": "Tasks",
+            "hours": 17,
+            "color": "#ff4081",
+            "people_id": 3
+        },
+        {
+            "hour_id": 10,
+            "activity": "Meeting",
+            "hours": 33,
+            "color": "#1ca1c1",
+            "people_id": 3
+        },
+        {
+            "hour_id": 11,
+            "activity": "Mail",
+            "hours": 28,
+            "color": "#f8643f",
+            "people_id": 3
+        },
+        {
+            "hour_id": 12,
+            "activity": "Calls",
+            "hours": 22,
+            "color": "#fdbf4c",
+            "people_id": 3
+        },
+        {
+            "hour_id": 13,
+            "activity": "Tasks",
+            "hours": 14,
+            "color": "#ff4081",
+            "people_id": 4
+        },
+        {
+            "hour_id": 14,
+            "activity": "Meeting",
+            "hours": 47,
+            "color": "#1ca1c1",
+            "people_id": 4
+        },
+        {
+            "hour_id": 15,
+            "activity": "Mail",
+            "hours": 31,
+            "color": "#f8643f",
+            "people_id": 4
+        },
+        {
+            "hour_id": 16,
+            "activity": "Calls",
+            "hours": 8,
+            "color": "#fdbf4c",
+            "people_id": 4
+        },
+        {
+            "hour_id": 17,
+            "activity": "Tasks",
+            "hours": 22,
+            "color": "#ff4081",
+            "people_id": 5
+        },
+        {
+            "hour_id": 18,
+            "activity": "Meeting",
+            "hours": 7,
+            "color": "#1ca1c1",
+            "people_id": 5
+        },
+        {
+            "hour_id": 19,
+            "activity": "Mail",
+            "hours": 12,
+            "color": "#f8643f",
+            "people_id": 5
+        },
+        {
+            "hour_id": 20,
+            "activity": "Calls",
+            "hours": 59,
+            "color": "#fdbf4c",
+            "people_id": 5
+        },
+        {
+            "hour_id": 21,
+            "activity": "Tasks",
+            "hours": 73,
+            "color": "#ff4081",
+            "people_id": 6
+        },
+        {
+            "hour_id": 22,
+            "activity": "Meeting",
+            "hours": 15,
+            "color": "#1ca1c1",
+            "people_id": 6
+        },
+        {
+            "hour_id": 23,
+            "activity": "Mail",
+            "hours": 3,
+            "color": "#f8643f",
+            "people_id": 6
+        },
+        {
+            "hour_id": 24,
+            "activity": "Calls",
+            "hours": 9,
+            "color": "#fdbf4c",
+            "people_id": 6
+        },
+        {
+            "hour_id": 25,
+            "activity": "Tasks",
+            "hours": 23,
+            "color": "#ff4081",
+            "people_id": 7
+        },
+        {
+            "hour_id": 26,
+            "activity": "Meeting",
+            "hours": 29,
+            "color": "#1ca1c1",
+            "people_id": 7
+        },
+        {
+            "hour_id": 27,
+            "activity": "Mail",
+            "hours": 4,
+            "color": "#f8643f",
+            "people_id": 7
+        },
+        {
+            "hour_id": 28,
+            "activity": "Calls",
+            "hours": 48,
+            "color": "#fdbf4c",
+            "people_id": 7
+        },
+        {
+            "hour_id": 29,
+            "activity": "Tasks",
+            "hours": 28,
+            "color": "#ff4081",
+            "people_id": 8
+        },
+        {
+            "hour_id": 30,
+            "activity": "Meeting",
+            "hours": 17,
+            "color": "#1ca1c1",
+            "people_id": 8
+        },
+        {
+            "hour_id": 31,
+            "activity": "Mail",
+            "hours": 25,
+            "color": "#f8643f",
+            "people_id": 8
+        },
+        {
+            "hour_id": 32,
+            "activity": "Calls",
+            "hours": 30,
+            "color": "#fdbf4c",
+            "people_id": 8
+        },
+        {
+            "hour_id": 33,
+            "activity": "Tasks",
+            "hours": 13,
+            "color": "#ff4081",
+            "people_id": 9
+        },
+        {
+            "hour_id": 34,
+            "activity": "Meeting",
+            "hours": 55,
+            "color": "#1ca1c1",
+            "people_id": 9
+        },
+        {
+            "hour_id": 35,
+            "activity": "Mail",
+            "hours": 17,
+            "color": "#f8643f",
+            "people_id": 9
+        },
+        {
+            "hour_id": 36,
+            "activity": "Calls",
+            "hours": 15,
+            "color": "#fdbf4c",
+            "people_id": 9
+        },
+        {
+            "hour_id": 37,
+            "activity": "Tasks",
+            "hours": 24,
+            "color": "#ff4081",
+            "people_id": 10
+        },
+        {
+            "hour_id": 38,
+            "activity": "Meeting",
+            "hours": 11,
+            "color": "#1ca1c1",
+            "people_id": 10
+        },
+        {
+            "hour_id": 39,
+            "activity": "Mail",
+            "hours": 44,
+            "color": "#f8643f",
+            "people_id": 10
+        },
+        {
+            "hour_id": 40,
+            "activity": "Calls",
+            "hours": 21,
+            "color": "#fdbf4c",
+            "people_id": 10
+        },
+        {
+            "hour_id": 41,
+            "activity": "Tasks",
+            "hours": 12,
+            "color": "#ff4081",
+            "people_id": 11
+        },
+        {
+            "hour_id": 42,
+            "activity": "Meeting",
+            "hours": 37,
+            "color": "#1ca1c1",
+            "people_id": 11
+        },
+        {
+            "hour_id": 43,
+            "activity": "Mail",
+            "hours": 42,
+            "color": "#f8643f",
+            "people_id": 11
+        },
+        {
+            "hour_id": 44,
+            "activity": "Calls",
+            "hours": 9,
+            "color": "#fdbf4c",
+            "people_id": 11
+        },
+        {
+            "hour_id": 45,
+            "activity": "Tasks",
+            "hours": 28,
+            "color": "#ff4081",
+            "people_id": 12
+        },
+        {
+            "hour_id": 46,
+            "activity": "Meeting",
+            "hours": 16,
+            "color": "#1ca1c1",
+            "people_id": 12
+        },
+        {
+            "hour_id": 47,
+            "activity": "Mail",
+            "hours": 23,
+            "color": "#f8643f",
+            "people_id": 12
+        },
+        {
+            "hour_id": 48,
+            "activity": "Calls",
+            "hours": 33,
+            "color": "#fdbf4c",
+            "people_id": 12
+        },
+        {
+            "hour_id": 49,
+            "activity": "Tasks",
+            "hours": 58,
+            "color": "#ff4081",
+            "people_id": 13
+        },
+        {
+            "hour_id": 50,
+            "activity": "Meeting",
+            "hours": 18,
+            "color": "#1ca1c1",
+            "people_id": 13
+        },
+        {
+            "hour_id": 51,
+            "activity": "Mail",
+            "hours": 14,
+            "color": "#f8643f",
+            "people_id": 13
+        },
+        {
+            "hour_id": 52,
+            "activity": "Calls",
+            "hours": 10,
+            "color": "#fdbf4c",
+            "people_id": 13
+        },
+        {
+            "hour_id": 53,
+            "activity": "Tasks",
+            "hours": 14,
+            "color": "#ff4081",
+            "people_id": 14
+        },
+        {
+            "hour_id": 54,
+            "activity": "Meeting",
+            "hours": 47,
+            "color": "#1ca1c1",
+            "people_id": 14
+        },
+        {
+            "hour_id": 55,
+            "activity": "Mail",
+            "hours": 31,
+            "color": "#f8643f",
+            "people_id": 14
+        },
+        {
+            "hour_id": 56,
+            "activity": "Calls",
+            "hours": 8,
+            "color": "#fdbf4c",
+            "people_id": 14
+        },
+        {
+            "hour_id": 57,
+            "activity": "Tasks",
+            "hours": 34,
+            "color": "#ff4081",
+            "people_id": 15
+        },
+        {
+            "hour_id": 58,
+            "activity": "Meeting",
+            "hours": 29,
+            "color": "#1ca1c1",
+            "people_id": 15
+        },
+        {
+            "hour_id": 59,
+            "activity": "Mail",
+            "hours": 27,
+            "color": "#f8643f",
+            "people_id": 15
+        },
+        {
+            "hour_id": 60,
+            "activity": "Calls",
+            "hours": 10,
+            "color": "#fdbf4c",
+            "people_id": 15
+        },
+        {
+            "hour_id": 61,
+            "activity": "Tasks",
+            "hours": 17,
+            "color": "#ff4081",
+            "people_id": 16
+        },
+        {
+            "hour_id": 62,
+            "activity": "Meeting",
+            "hours": 43,
+            "color": "#1ca1c1",
+            "people_id": 16
+        },
+        {
+            "hour_id": 63,
+            "activity": "Mail",
+            "hours": 20,
+            "color": "#f8643f",
+            "people_id": 16
+        },
+        {
+            "hour_id": 64,
+            "activity": "Calls",
+            "hours": 20,
+            "color": "#fdbf4c",
+            "people_id": 16
+        },
+        {
+            "hour_id": 65,
+            "activity": "Tasks",
+            "hours": 40,
+            "color": "#ff4081",
+            "people_id": 17
+        },
+        {
+            "hour_id": 66,
+            "activity": "Meeting",
+            "hours": 19,
+            "color": "#1ca1c1",
+            "people_id": 17
+        },
+        {
+            "hour_id": 67,
+            "activity": "Mail",
+            "hours": 14,
+            "color": "#f8643f",
+            "people_id": 17
+        },
+        {
+            "hour_id": 68,
+            "activity": "Calls",
+            "hours": 27,
+            "color": "#fdbf4c",
+            "people_id": 17
+        },
+        {
+            "hour_id": 69,
+            "activity": "Tasks",
+            "hours": 11,
+            "color": "#ff4081",
+            "people_id": 18
+        },
+        {
+            "hour_id": 70,
+            "activity": "Meeting",
+            "hours": 16,
+            "color": "#1ca1c1",
+            "people_id": 18
+        },
+        {
+            "hour_id": 71,
+            "activity": "Mail",
+            "hours": 12,
+            "color": "#f8643f",
+            "people_id": 18
+        },
+        {
+            "hour_id": 72,
+            "activity": "Calls",
+            "hours": 61,
+            "color": "#fdbf4c",
+            "people_id": 18
+        },
+        {
+            "hour_id": 73,
+            "activity": "Tasks",
+            "hours": 36,
+            "color": "#ff4081",
+            "people_id": 19
+        },
+        {
+            "hour_id": 74,
+            "activity": "Meeting",
+            "hours": 18,
+            "color": "#1ca1c1",
+            "people_id": 19
+        },
+        {
+            "hour_id": 75,
+            "activity": "Mail",
+            "hours": 21,
+            "color": "#f8643f",
+            "people_id": 19
+        },
+        {
+            "hour_id": 76,
+            "activity": "Calls",
+            "hours": 25,
+            "color": "#fdbf4c",
+            "people_id": 19
+        },
+        {
+            "hour_id": 77,
+            "activity": "Tasks",
+            "hours": 39,
+            "color": "#ff4081",
+            "people_id": 20
+        },
+        {
+            "hour_id": 78,
+            "activity": "Meeting",
+            "hours": 24,
+            "color": "#1ca1c1",
+            "people_id": 20
+        },
+        {
+            "hour_id": 79,
+            "activity": "Mail",
+            "hours": 9,
+            "color": "#f8643f",
+            "people_id": 20
+        },
+        {
+            "hour_id": 80,
+            "activity": "Calls",
+            "hours": 28,
+            "color": "#fdbf4c",
+            "people_id": 20
+        }
+    ],
+    "projects": [
+        {
+            "task1": 72,
+            "task2": 51,
+            "project": "Testing"
+        },
+        {
+            "task1": 98,
+            "task2": 23,
+            "project": "Management"
+        },
+        {
+            "task1": 33,
+            "task2": 51,
+            "project": "Support"
+        },
+        {
+            "task1": 61,
+            "task2": 49,
+            "project": "Data Quality"
+        }
+    ],
+    "statistics": [
+        {
+            "month": "JAN",
+            "task1": 25,
+            "task2": 53
+        },
+        {
+            "month": "FEB",
+            "task1": 20,
+            "task2": 46
+        },
+        {
+            "month": "MAR",
+            "task1": 50,
+            "task2": 62
+        },
+        {
+            "month": "APR",
+            "task1": 25,
+            "task2": 13
+        },
+        {
+            "month": "MAY",
+            "task1": 55,
+            "task2": 27
+        },
+        {
+            "month": "JUN",
+            "task1": 8,
+            "task2": 14
+        },
+        {
+            "month": "JUL",
+            "task1": 40,
+            "task2": 49
+        },
+        {
+            "month": "AUG",
+            "task1": 58,
+            "task2": 11
+        },
+        {
+            "month": "SEP",
+            "task1": 40,
+            "task2": 72
+        },
+        {
+            "month": "OCT",
+            "task1": 59,
+            "task2": 67
+        },
+        {
+            "month": "NOV",
+            "task1": 79,
+            "task2": 27
+        },
+        {
+            "month": "DEC",
+            "task1": 36,
+            "task2": 98
+        }
+    ]
+}

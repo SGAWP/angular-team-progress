@@ -1,0 +1,160 @@
+﻿*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height : 100%;
+    height     : 100%;
+    margin     : 0px;
+    padding    : 0px;
+    font-family: "Fira Sans Condensed", sans-serif
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.2) inset;
+    background-color  : #f9f9fd;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #424242;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%,
+            color-stop(.5, rgba(48, 48, 48, .25)),
+            color-stop(.5, transparent), to(transparent));
+}
+
+.page {
+    margin-top: 5px;
+    padding   : 10px 20px
+}
+
+.mr10 {
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 600px) {
+    .mr10 {
+        margin-right: 0px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .pt20 {
+        padding-bottom: 20px;
+    }
+}
+
+.header {
+    color  : #ffffff;
+    padding: 0 5px;
+}
+
+.container {
+    padding: 5px 15px 15px 15px;
+}
+
+.component-holder {
+    border: 1px solid #424242;
+}
+
+.tb {
+    border         : 1px solid #cccccc;
+    border-collapse: collapse;
+    margin         : 0;
+    padding        : 0;
+    width          : 100%;
+    table-layout   : fixed;
+}
+
+.tb caption {
+    font-size: 1.5em;
+    margin   : .5em 0 .75em;
+}
+
+.mat-table {
+    background: #f8f8f8;
+}
+
+.tb tr {
+    border : 1px solid #ff4081;
+    padding: .35em;
+}
+
+.tb tr:nth-child(even) td {
+    background: rgba(255, 64, 129, 0.34);
+}
+
+.tb th,
+.tb td {
+    padding   : .625em;
+    text-align: center;
+}
+
+.tb th {
+    background: #ff4081;
+}
+
+@media screen and (max-width: 1270px) {
+    .tb {
+        border: 0;
+    }
+
+    .tb thead {
+        border  : none;
+        clip    : rect(0 0 0 0);
+        height  : 1px;
+        margin  : -1px;
+        overflow: hidden;
+        padding : 0;
+        position: absolute;
+        width   : 1px;
+    }
+
+    .tb tr {
+        border-bottom: 3px solid #ff4081;
+        display      : block;
+        margin-bottom: .625em;
+    }
+
+    .tb td {
+        border-bottom: 1px solid #ff4081;
+        display      : block;
+        font-size    : .8em;
+        text-align   : right;
+    }
+
+    .tb td:before {
+        content       : attr(data-label);
+        float         : left;
+        font-weight   : bold;
+        text-transform: uppercase;
+    }
+
+    .tb td:last-child {
+        border-bottom: 0;
+    }
+
+}
+
+mat-button-toggle-group {
+    cursor: pointer;
+}
+
+.mat-table {
+    overflow  : auto;
+    max-height: 500px;
+}
+
+.mat-header-cell {
+    color      : #303030;
+    font-weight: bold;
+}

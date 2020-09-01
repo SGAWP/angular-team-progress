@@ -1,0 +1,24 @@
+<aside class="side-menu">
+    <ul class="side-menu__content" fxLayout="column" *ngFor="let person of people">
+        <li class="side-menu__item" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+            <a mat-button class="side-menu__link" [routerLink]="['/people', person.person_id]">
+                <div fxLayout="row" fxLayout.xs="column" class="comp">
+                    <div fxFlex="40">
+                        <img src="/assets/photos/{{person.photo}}.jpeg" class="img">
+                    </div>
+                    <div fxFlex="60">
+                        <div fxLayout="column">
+                            <div fxFlex="100">
+                                {{person.first_name}} {{person.last_name}}
+                            </div>
+                            <div fxFlex="100">
+                                ${{person.money}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <mat-divider></mat-divider>
+    </ul>
+</aside>

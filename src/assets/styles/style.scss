@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Material Icons';
+    font-style : normal;
+    font-weight: 400;
+    src        : url('../fonts/MaterialIcons/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2') format('woff2');
+}
+
+.material-icons {
+    font-family                  : 'Material Icons';
+    font-weight                  : normal;
+    font-style                   : normal;
+    font-size                    : 24px;
+    line-height                  : 1;
+    letter-spacing               : normal;
+    text-transform               : none;
+    display                      : inline-block;
+    white-space                  : nowrap;
+    word-wrap                    : normal;
+    direction                    : ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing       : antialiased;
+}
+
+@import 'common.scss';
+
+@import '~@angular/material/theming';
+
+@include mat-core();
+
+@import 'dark-pink-theme.scss';
+
+$custom-typography: mat-typography-config($font-family: ('Fira Sans Condensed', sans-serif),
+    $headline: mat-typography-level(32px, 48px, 700),
+    $body-1: mat-typography-level(16px, 24px, 500));
+
+@include angular-material-typography($custom-typography);
+
+@include angular-material-theme($dark-pink-theme);

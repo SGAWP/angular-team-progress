@@ -1,0 +1,47 @@
+.side-menu {
+    &__content {
+        list-style: none;
+        margin    : 0px;
+        padding   : 0px;
+    }
+
+    &__link,
+    &__link:visited {
+        padding        : 5px 10px;
+        display        : block;
+        text-decoration: none;
+        font-weight    : bold;
+        font-size      : 16px;
+        text-align     : left;
+    }
+
+    &__item.active &__link {
+        color: #ff4081;
+
+        .img {
+            border: 3px solid #ff4081;
+        }
+
+    }
+
+    &__link-icon {
+        margin-right: 10px;
+    }
+
+    &__item.active &__link-icon {
+        color: #ff4081;
+    }
+}
+
+.img {
+    height       : 80px;
+    border-radius: 50%;
+    border       : 3px solid #303030;
+}
+
+@media screen and (max-width: 599.99px) {
+    .comp {
+        align-items: center;
+        text-align : center;
+    }
+}

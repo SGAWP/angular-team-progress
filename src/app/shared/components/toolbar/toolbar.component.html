@@ -1,0 +1,13 @@
+<header class="main-header" fxLayout="row" fxLayoutGap="10px" fxLayoutAlign="center center">
+    <button href="#" (click)="sideMenuToggle($event)" mat-icon-button class="main-header__sidenav-toggle">
+        <mat-icon>menu</mat-icon>
+    </button>
+    <a class="main-header__logo">Angular Team Progress</a>
+    <ul class="main-header__right-menu">
+        <li>
+            <a mat-icon-button (click)="fullscreen()" matTooltip="Полноэкранный режим" fxHide.lt-sm>
+                <mat-icon>fullscreen</mat-icon>
+            </a>
+        </li>
+    </ul>
+</header>

@@ -1,0 +1,18 @@
+[
+    {
+        "isDark": true,
+        "styleName": "dark-pink-theme",
+        "displayName": "Pink Dark",
+        "primary": "pink",
+        "accent": "blue-grey",
+        "warn": "orange"
+    },
+    {
+        "isDark": false,
+        "styleName": "light-indigo-theme",
+        "displayName": "Indigo Light",
+        "primary": "indigo",
+        "accent": "pink",
+        "warn": "orange"
+    }
+]
